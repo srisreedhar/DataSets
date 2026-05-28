@@ -1,0 +1,493 @@
+Country,Variable,Time,Value
+Canada,Production,1990,32098300000
+Canada,Production,1991,31945600000
+Canada,Production,1992,29877200000
+Canada,Production,1993,27225900000
+Canada,Production,1994,22919500000
+Canada,Production,1995,24989400000
+Canada,Production,1996,29801400000
+Canada,Production,1997,24299400000
+Canada,Production,1998,24082300000
+Canada,Production,1999,26959900000
+Canada,Production,2000,26535500000
+Canada,Production,2001,20630200000
+Canada,Production,2002,15961300000
+Canada,Production,2003,23048600000
+Canada,Production,2004,24795500000
+Canada,Production,2005,25748100000
+Canada,Production,2006,25265400000
+Canada,Production,2007,20090400000
+Canada,Production,2008,28619200000
+Canada,Production,2009,26949900000
+Canada,Production,2010,23299600000
+Canada,Production,2011,25288000000
+Canada,Production,2012,27246000000
+Canada,Production,2013,37589100000
+Canada,Production,2014,29442100000
+Canada,Production,2015,27647400000
+Canada,Production,2016,32139900000
+Canada,Production,2017,30377300000
+Canada,Production,2018,32351900000
+Canada,Production,2019,32669800000
+Canada,Production,2020,35188181000
+Canada,Production,2021,34110133000
+Canada,Production,2022,34953013000
+Canada,Production,2023,35348466000
+Canada,Production,2024,35974698000
+Canada,Production,2025,36129132000
+Canada,Production,2026,36372431000
+Canada,Production,2027,36641781000
+Canada,Production,2028,37097233000
+Canada,Production,2029,37525385000
+Canada,Production,2030,37844476000
+Canada,Consumption,1990,6125700000
+Canada,Consumption,1991,6807800000
+Canada,Consumption,1992,7443400000
+Canada,Consumption,1993,9027000000
+Canada,Consumption,1994,7588300000
+Canada,Consumption,1995,7763800000
+Canada,Consumption,1996,8234700000
+Canada,Consumption,1997,7392500000
+Canada,Consumption,1998,8023300000
+Canada,Consumption,1999,8387000000
+Canada,Consumption,2000,7520700000
+Canada,Consumption,2001,7630600000
+Canada,Consumption,2002,7772100000
+Canada,Consumption,2003,7079500000
+Canada,Consumption,2004,8059300000
+Canada,Consumption,2005,8300500000
+Canada,Consumption,2006,8696100000
+Canada,Consumption,2007,6756100000
+Canada,Consumption,2008,7759100000
+Canada,Consumption,2009,7488000000
+Canada,Consumption,2010,7567000000
+Canada,Consumption,2011,9294500000
+Canada,Consumption,2012,8561600000
+Canada,Consumption,2013,8862300000
+Canada,Consumption,2014,8870500000
+Canada,Consumption,2015,7973400000
+Canada,Consumption,2016,10341100000
+Canada,Consumption,2017,8746100000
+Canada,Consumption,2018,8757701000
+Canada,Consumption,2019,8858184000
+Canada,Consumption,2020,8885661000
+Canada,Consumption,2021,8825152000
+Canada,Consumption,2022,8791296000
+Canada,Consumption,2023,8845843000
+Canada,Consumption,2024,9050039000
+Canada,Consumption,2025,9192087000
+Canada,Consumption,2026,9304831000
+Canada,Consumption,2027,9435774000
+Canada,Consumption,2028,9560612000
+Canada,Consumption,2029,9725308000
+Canada,Consumption,2030,9886252000
+United Kingdom,Production,1990,14033000000
+United Kingdom,Production,1991,14363000000
+United Kingdom,Production,1992,14095000000
+United Kingdom,Production,1993,12890000000
+United Kingdom,Production,1994,13316000000
+United Kingdom,Production,1995,14312000000
+United Kingdom,Production,1996,16100000000
+United Kingdom,Production,1997,15018000000
+United Kingdom,Production,1998,15449000000
+United Kingdom,Production,1999,14867000000
+United Kingdom,Production,2000,16704000000
+United Kingdom,Production,2001,11580000000
+United Kingdom,Production,2002,15973000000
+United Kingdom,Production,2003,14288000000
+United Kingdom,Production,2004,15473000000
+United Kingdom,Production,2005,14863000000
+United Kingdom,Production,2006,14755000000
+United Kingdom,Production,2007,13221000000
+United Kingdom,Production,2008,17222400000
+United Kingdom,Production,2009,14076000000
+United Kingdom,Production,2010,14878000000
+United Kingdom,Production,2011,15257000000
+United Kingdom,Production,2012,13261000000
+United Kingdom,Production,2013,11921000000
+United Kingdom,Production,2014,16608940000
+United Kingdom,Production,2015,16433040000
+United Kingdom,Production,2016,14383470000
+United Kingdom,Production,2017,14838370000
+United Kingdom,Production,2018,13564480000
+United Kingdom,Production,2019,16271360000
+United Kingdom,Production,2020,10132990000
+United Kingdom,Production,2021,15096020000
+United Kingdom,Production,2022,15170407000
+United Kingdom,Production,2023,15229358000
+United Kingdom,Production,2024,15444356000
+United Kingdom,Production,2025,15523724000
+United Kingdom,Production,2026,15849929000
+United Kingdom,Production,2027,15936729000
+United Kingdom,Production,2028,16276014000
+United Kingdom,Production,2029,16595097000
+United Kingdom,Production,2030,16877893000
+United Kingdom,Consumption,1990,10616622000
+United Kingdom,Consumption,1991,10899109000
+United Kingdom,Consumption,1992,11168035000
+United Kingdom,Consumption,1993,11138307000
+United Kingdom,Consumption,1994,11331380000
+United Kingdom,Consumption,1995,11710278000
+United Kingdom,Consumption,1996,12077899000
+United Kingdom,Consumption,1997,12279921000
+United Kingdom,Consumption,1998,12558219000
+United Kingdom,Consumption,1999,12625477000
+United Kingdom,Consumption,2000,13152498000
+United Kingdom,Consumption,2001,13386979000
+United Kingdom,Consumption,2002,13217900000
+United Kingdom,Consumption,2003,13409550000
+United Kingdom,Consumption,2004,13356841000
+United Kingdom,Consumption,2005,13683647000
+United Kingdom,Consumption,2006,13587444000
+United Kingdom,Consumption,2007,13435838000
+United Kingdom,Consumption,2008,13573380000
+United Kingdom,Consumption,2009,13741680000
+United Kingdom,Consumption,2010,13239390000
+United Kingdom,Consumption,2011,13247270000
+United Kingdom,Consumption,2012,14867590000
+United Kingdom,Consumption,2013,14631990000
+United Kingdom,Consumption,2014,15225130000
+United Kingdom,Consumption,2015,14895490000
+United Kingdom,Consumption,2016,15372900000
+United Kingdom,Consumption,2017,15729160000
+United Kingdom,Consumption,2018,15488480000
+United Kingdom,Consumption,2019,14463350000
+United Kingdom,Consumption,2020,14493950000
+United Kingdom,Consumption,2021,15687059000
+United Kingdom,Consumption,2022,15729530000
+United Kingdom,Consumption,2023,15753651000
+United Kingdom,Consumption,2024,15829929000
+United Kingdom,Consumption,2025,15876556000
+United Kingdom,Consumption,2026,15920778000
+United Kingdom,Consumption,2027,15984188000
+United Kingdom,Consumption,2028,16049150000
+United Kingdom,Consumption,2029,16132748000
+United Kingdom,Consumption,2030,16215302000
+Mexico,Production,1990,3931000000
+Mexico,Production,1991,4060738000
+Mexico,Production,1992,3620503000
+Mexico,Production,1993,3582450000
+Mexico,Production,1994,4150922000
+Mexico,Production,1995,3468217000
+Mexico,Production,1996,3375008000
+Mexico,Production,1997,3656594000
+Mexico,Production,1998,3235080000
+Mexico,Production,1999,3020900000
+Mexico,Production,2000,3493209000
+Mexico,Production,2001,3275459000
+Mexico,Production,2002,3236183000
+Mexico,Production,2003,2715772000
+Mexico,Production,2004,2321224000
+Mexico,Production,2005,3015177000
+Mexico,Production,2006,3378116000
+Mexico,Production,2007,3515392000
+Mexico,Production,2008,4213546000
+Mexico,Production,2009,4116161000
+Mexico,Production,2010,3676708000
+Mexico,Production,2011,3627511000
+Mexico,Production,2012,3274337000
+Mexico,Production,2013,3357307000
+Mexico,Production,2014,3669814000
+Mexico,Production,2015,3710706000
+Mexico,Production,2016,3862914000
+Mexico,Production,2017,3503521000
+Mexico,Production,2018,2943445000
+Mexico,Production,2019,3252226000
+Mexico,Production,2020,2957481000
+Mexico,Production,2021,3054638000
+Mexico,Production,2022,3057851000
+Mexico,Production,2023,3093844000
+Mexico,Production,2024,3132227000
+Mexico,Production,2025,3144101000
+Mexico,Production,2026,3153737000
+Mexico,Production,2027,3166565000
+Mexico,Production,2028,3186926000
+Mexico,Production,2029,3214252000
+Mexico,Production,2030,3232200000
+Mexico,Consumption,1990,3943000000
+Mexico,Consumption,1991,4304160000
+Mexico,Consumption,1992,4744383000
+Mexico,Consumption,1993,5180400000
+Mexico,Consumption,1994,5224422000
+Mexico,Consumption,1995,4461170000
+Mexico,Consumption,1996,5002612000
+Mexico,Consumption,1997,4956212000
+Mexico,Consumption,1998,5219285000
+Mexico,Consumption,1999,5527198000
+Mexico,Consumption,2000,6232073000
+Mexico,Consumption,2001,6147359000
+Mexico,Consumption,2002,5803490000
+Mexico,Consumption,2003,5749712000
+Mexico,Consumption,2004,5713726000
+Mexico,Consumption,2005,6288224000
+Mexico,Consumption,2006,6237291000
+Mexico,Consumption,2007,5999503000
+Mexico,Consumption,2008,6332947000
+Mexico,Consumption,2009,6106774000
+Mexico,Consumption,2010,6537475000
+Mexico,Consumption,2011,6947555000
+Mexico,Consumption,2012,7041895000
+Mexico,Consumption,2013,6511499000
+Mexico,Consumption,2014,7040394000
+Mexico,Consumption,2015,5978706000
+Mexico,Consumption,2016,6915914000
+Mexico,Consumption,2017,7764521000
+Mexico,Consumption,2018,7125445000
+Mexico,Consumption,2019,7473367000
+Mexico,Consumption,2020,7333822000
+Mexico,Consumption,2021,7578328000
+Mexico,Consumption,2022,7659146000
+Mexico,Consumption,2023,7720078000
+Mexico,Consumption,2024,7818661000
+Mexico,Consumption,2025,7908909000
+Mexico,Consumption,2026,7992020000
+Mexico,Consumption,2027,8075475000
+Mexico,Consumption,2028,8154156000
+Mexico,Consumption,2029,8238820000
+Mexico,Consumption,2030,8323119000
+Norway,Production,1990,224000000
+Norway,Production,1991,246000000
+Norway,Production,1992,193000000
+Norway,Production,1993,379000000
+Norway,Production,1994,280000000
+Norway,Production,1995,312000000
+Norway,Production,1996,266000000
+Norway,Production,1997,256000000
+Norway,Production,1998,323000000
+Norway,Production,1999,225804000
+Norway,Production,2000,308570000
+Norway,Production,2001,254378000
+Norway,Production,2002,256555000
+Norway,Production,2003,344083000
+Norway,Production,2004,401431000
+Norway,Production,2005,390400000
+Norway,Production,2006,351622000
+Norway,Production,2007,395456000
+Norway,Production,2008,449103000
+Norway,Production,2009,274910000
+Norway,Production,2010,328114000
+Norway,Production,2011,280848000
+Norway,Production,2012,271865000
+Norway,Production,2013,210436000
+Norway,Production,2014,385430000
+Norway,Production,2015,491442000
+Norway,Production,2016,485044000
+Norway,Production,2017,478646000
+Norway,Production,2018,472249000
+Norway,Production,2019,465851000
+Norway,Production,2020,468967000
+Norway,Production,2021,483816000
+Norway,Production,2022,477076000
+Norway,Production,2023,471533000
+Norway,Production,2024,476267000
+Norway,Production,2025,480480000
+Norway,Production,2026,485169000
+Norway,Production,2027,490306000
+Norway,Production,2028,495488000
+Norway,Production,2029,500708000
+Norway,Production,2030,505537000
+Norway,Consumption,1990,440100000
+Norway,Consumption,1991,437000000
+Norway,Consumption,1992,450100000
+Norway,Consumption,1993,456600000
+Norway,Consumption,1994,476500000
+Norway,Consumption,1995,473000000
+Norway,Consumption,1996,501000000
+Norway,Consumption,1997,509000000
+Norway,Consumption,1998,543800000
+Norway,Consumption,1999,542404000
+Norway,Consumption,2000,563570000
+Norway,Consumption,2001,569378000
+Norway,Consumption,2002,571555000
+Norway,Consumption,2003,589083000
+Norway,Consumption,2004,586431000
+Norway,Consumption,2005,685400000
+Norway,Consumption,2006,696622000
+Norway,Consumption,2007,790456000
+Norway,Consumption,2008,794103000
+Norway,Consumption,2009,705910000
+Norway,Consumption,2010,681114000
+Norway,Consumption,2011,675848000
+Norway,Consumption,2012,735865000
+Norway,Consumption,2013,764436000
+Norway,Consumption,2014,812430000
+Norway,Consumption,2015,817442000
+Norway,Consumption,2016,786044000
+Norway,Consumption,2017,785646000
+Norway,Consumption,2018,1011249000
+Norway,Consumption,2019,743851000
+Norway,Consumption,2020,763967000
+Norway,Consumption,2021,857153000
+Norway,Consumption,2022,851886000
+Norway,Consumption,2023,847805000
+Norway,Consumption,2024,858018000
+Norway,Consumption,2025,866294000
+Norway,Consumption,2026,874270000
+Norway,Consumption,2027,883322000
+Norway,Consumption,2028,892274000
+Norway,Consumption,2029,902353000
+Norway,Consumption,2030,912623000
+Brazil,Production,1990,3077800000
+Brazil,Production,1991,2739200000
+Brazil,Production,1992,2051800000
+Brazil,Production,1993,2137800000
+Brazil,Production,1994,1524300000
+Brazil,Production,1995,3197500000
+Brazil,Production,1996,2406900000
+Brazil,Production,1997,2187700000
+Brazil,Production,1998,2402800000
+Brazil,Production,1999,1658400000
+Brazil,Production,2000,3194200000
+Brazil,Production,2001,2913900000
+Brazil,Production,2002,6073500000
+Brazil,Production,2003,5845900000
+Brazil,Production,2004,4873100000
+Brazil,Production,2005,2233700000
+Brazil,Production,2006,4097100000
+Brazil,Production,2007,5884000000
+Brazil,Production,2008,5026200000
+Brazil,Production,2009,5881605000
+Brazil,Production,2010,5788600000
+Brazil,Production,2011,4379500000
+Brazil,Production,2012,5527900000
+Brazil,Production,2013,5971100000
+Brazil,Production,2014,5534900000
+Brazil,Production,2015,5534900000
+Brazil,Production,2016,6726800000
+Brazil,Production,2017,4263500000
+Brazil,Production,2018,5427600000
+Brazil,Production,2019,5154700000
+Brazil,Production,2020,6354800000
+Brazil,Production,2021,5791983000
+Brazil,Production,2022,5907490000
+Brazil,Production,2023,6045955000
+Brazil,Production,2024,6167569000
+Brazil,Production,2025,6275527000
+Brazil,Production,2026,6388505000
+Brazil,Production,2027,6513345000
+Brazil,Production,2028,6644091000
+Brazil,Production,2029,6777031000
+Brazil,Production,2030,6902924000
+Brazil,Consumption,1990,7140000000
+Brazil,Consumption,1991,8069000000
+Brazil,Consumption,1992,8179000000
+Brazil,Consumption,1993,8235000000
+Brazil,Consumption,1994,8404000000
+Brazil,Consumption,1995,8502000000
+Brazil,Consumption,1996,8955000000
+Brazil,Consumption,1997,9077000000
+Brazil,Consumption,1998,9237000000
+Brazil,Consumption,1999,9678000000
+Brazil,Consumption,2000,9657000000
+Brazil,Consumption,2001,9920000000
+Brazil,Consumption,2002,10055000000
+Brazil,Consumption,2003,10240000000
+Brazil,Consumption,2004,10324000000
+Brazil,Consumption,2005,10399000000
+Brazil,Consumption,2006,10142000000
+Brazil,Consumption,2007,10474000000
+Brazil,Consumption,2008,10573000000
+Brazil,Consumption,2009,10611000000
+Brazil,Consumption,2010,10842000000
+Brazil,Consumption,2011,10948000000
+Brazil,Consumption,2012,11011000000
+Brazil,Consumption,2013,11106000000
+Brazil,Consumption,2014,11182000000
+Brazil,Consumption,2015,11203000000
+Brazil,Consumption,2016,11454359000
+Brazil,Consumption,2017,11870321000
+Brazil,Consumption,2018,11924600000
+Brazil,Consumption,2019,12049700000
+Brazil,Consumption,2020,12234600000
+Brazil,Consumption,2021,12335838000
+Brazil,Consumption,2022,12492481000
+Brazil,Consumption,2023,12611072000
+Brazil,Consumption,2024,12736691000
+Brazil,Consumption,2025,12858445000
+Brazil,Consumption,2026,12982474000
+Brazil,Consumption,2027,13106374000
+Brazil,Consumption,2028,13226717000
+Brazil,Consumption,2029,13345665000
+Brazil,Consumption,2030,13458543000
+Pakistan,Production,1990,14315000000
+Pakistan,Production,1991,14565000000
+Pakistan,Production,1992,15684000000
+Pakistan,Production,1993,16157000000
+Pakistan,Production,1994,15213000000
+Pakistan,Production,1995,17002000000
+Pakistan,Production,1996,16907000000
+Pakistan,Production,1997,16650000000
+Pakistan,Production,1998,18694000000
+Pakistan,Production,1999,17857600000
+Pakistan,Production,2000,21078600000
+Pakistan,Production,2001,19023700000
+Pakistan,Production,2002,18226500000
+Pakistan,Production,2003,19183300000
+Pakistan,Production,2004,19499800000
+Pakistan,Production,2005,21612300000
+Pakistan,Production,2006,21276800000
+Pakistan,Production,2007,23294700000
+Pakistan,Production,2008,20958800000
+Pakistan,Production,2009,24033000000
+Pakistan,Production,2010,23310800000
+Pakistan,Production,2011,25213800000
+Pakistan,Production,2012,23473400000
+Pakistan,Production,2013,24211360000
+Pakistan,Production,2014,25979339000
+Pakistan,Production,2015,25086174000
+Pakistan,Production,2016,25633000000
+Pakistan,Production,2017,26674000000
+Pakistan,Production,2018,25076000000
+Pakistan,Production,2019,24358000000
+Pakistan,Production,2020,25250000000
+Pakistan,Production,2021,26019739000
+Pakistan,Production,2022,26071787000
+Pakistan,Production,2023,26564380000
+Pakistan,Production,2024,27014978000
+Pakistan,Production,2025,27469297000
+Pakistan,Production,2026,28009614000
+Pakistan,Production,2027,28524815000
+Pakistan,Production,2028,29025667000
+Pakistan,Production,2029,29520396000
+Pakistan,Production,2030,29995753000
+Pakistan,Consumption,1990,15533100000
+Pakistan,Consumption,1991,16183000000
+Pakistan,Consumption,1992,16238000000
+Pakistan,Consumption,1993,16965000000
+Pakistan,Consumption,1994,17386000000
+Pakistan,Consumption,1995,18102000000
+Pakistan,Consumption,1996,18407000000
+Pakistan,Consumption,1997,18838000000
+Pakistan,Consumption,1998,19514000000
+Pakistan,Consumption,1999,19077600000
+Pakistan,Consumption,2000,19880600000
+Pakistan,Consumption,2001,20910700000
+Pakistan,Consumption,2002,20150513000
+Pakistan,Consumption,2003,20441204000
+Pakistan,Consumption,2004,20714401000
+Pakistan,Consumption,2005,21433202000
+Pakistan,Consumption,2006,21770016000
+Pakistan,Consumption,2007,21895764000
+Pakistan,Consumption,2008,22001185000
+Pakistan,Consumption,2009,22533006000
+Pakistan,Consumption,2010,23010836000
+Pakistan,Consumption,2011,23300118000
+Pakistan,Consumption,2012,23673442000
+Pakistan,Consumption,2013,24153668000
+Pakistan,Consumption,2014,24620983000
+Pakistan,Consumption,2015,24945208000
+Pakistan,Consumption,2016,25393028000
+Pakistan,Consumption,2017,25684955000
+Pakistan,Consumption,2018,25787603000
+Pakistan,Consumption,2019,26138003000
+Pakistan,Consumption,2020,27000003000
+Pakistan,Consumption,2021,27532376000
+Pakistan,Consumption,2022,28024319000
+Pakistan,Consumption,2023,28564405000
+Pakistan,Consumption,2024,29127329000
+Pakistan,Consumption,2025,29643397000
+Pakistan,Consumption,2026,30143056000
+Pakistan,Consumption,2027,30651405000
+Pakistan,Consumption,2028,31155565000
+Pakistan,Consumption,2029,31672420000
+Pakistan,Consumption,2030,32185103000
