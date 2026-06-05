@@ -1,137 +1,160 @@
-superheroes = {
-    "Superman": {
+[
+    {
+        "name": "Superman",
         "real_name": "Clark Kent",
         "powers": ["Flight", "Super Strength", "X-Ray Vision", "Heat Vision"],
         "team": "Justice League",
         "home": "Metropolis"
     },
-    "Batman": {
+    {
+        "name": "Batman",
         "real_name": "Bruce Wayne",
         "powers": ["Genius Intellect", "Martial Arts", "Gadgets"],
         "team": "Justice League",
         "home": "Gotham City"
     },
-    "Wonder Woman": {
+    {
+        "name": "Wonder Woman",
         "real_name": "Diana Prince",
         "powers": ["Super Strength", "Flight", "Lasso of Truth"],
         "team": "Justice League",
         "home": "Themyscira"
     },
-    "Spider-Man": {
+    {
+        "name": "Spider-Man",
         "real_name": "Peter Parker",
         "powers": ["Web-Slinging", "Wall-Crawling", "Spider-Sense"],
         "team": "Avengers",
         "home": "New York City"
     },
-    "Iron Man": {
+    {
+        "name": "Iron Man",
         "real_name": "Tony Stark",
         "powers": ["Powered Armor", "Genius Intellect", "Flight"],
         "team": "Avengers",
         "home": "New York City"
     },
-    "Captain America": {
+    {
+        "name": "Captain America",
         "real_name": "Steve Rogers",
         "powers": ["Super Strength", "Shield Mastery", "Enhanced Agility"],
         "team": "Avengers",
         "home": "Brooklyn"
     },
-    "Thor": {
+    {
+        "name": "Thor",
         "real_name": "Thor Odinson",
         "powers": ["God of Thunder", "Mjolnir", "Super Strength"],
         "team": "Avengers",
         "home": "Asgard"
     },
-    "Hulk": {
+    {
+        "name": "Hulk",
         "real_name": "Bruce Banner",
         "powers": ["Super Strength", "Regeneration", "Gamma Radiation"],
         "team": "Avengers",
         "home": "New Mexico"
     },
-    "Black Widow": {
+    {
+        "name": "Black Widow",
         "real_name": "Natasha Romanoff",
         "powers": ["Espionage", "Martial Arts", "Agility"],
         "team": "Avengers",
         "home": "Russia"
     },
-    "Hawkeye": {
+    {
+        "name": "Hawkeye",
         "real_name": "Clint Barton",
         "powers": ["Archery", "Martial Arts", "Accuracy"],
         "team": "Avengers",
         "home": "Iowa"
     },
-    "The Flash": {
+    {
+        "name": "The Flash",
         "real_name": "Barry Allen",
         "powers": ["Super Speed", "Time Travel", "Vibration"],
         "team": "Justice League",
         "home": "Central City"
     },
-    "Green Lantern": {
+    {
+        "name": "Green Lantern",
         "real_name": "Hal Jordan",
         "powers": ["Power Ring", "Flight", "Constructs"],
         "team": "Justice League",
         "home": "Coast City"
     },
-    "Aquaman": {
+    {
+        "name": "Aquaman",
         "real_name": "Arthur Curry",
         "powers": ["Underwater Breathing", "Super Strength", "Telepathy"],
         "team": "Justice League",
         "home": "Atlantis"
     },
-    "Black Panther": {
+    {
+        "name": "Black Panther",
         "real_name": "T'Challa",
         "powers": ["Enhanced Abilities", "Vibranium Suit", "Leadership"],
         "team": "Avengers",
         "home": "Wakanda"
     },
-    "Doctor Strange": {
+    {
+        "name": "Doctor Strange",
         "real_name": "Stephen Strange",
         "powers": ["Magic", "Time Manipulation", "Teleportation"],
         "team": "Avengers",
         "home": "New York City"
     },
-    "Captain Marvel": {
+    {
+        "name": "Captain Marvel",
         "real_name": "Carol Danvers",
         "powers": ["Flight", "Energy Blasts", "Super Strength"],
         "team": "Avengers",
         "home": "Boston"
     },
-    "Wolverine": {
+    {
+        "name": "Wolverine",
         "real_name": "Logan",
         "powers": ["Regeneration", "Adamantium Claws", "Enhanced Senses"],
         "team": "X-Men",
         "home": "Canada"
     },
-    "Storm": {
+    {
+        "name": "Storm",
         "real_name": "Ororo Munroe",
         "powers": ["Weather Control", "Flight", "Lightning"],
         "team": "X-Men",
         "home": "Kenya"
     },
-    "Cyclops": {
+    {
+        "name": "Cyclops",
         "real_name": "Scott Summers",
         "powers": ["Optic Blasts", "Leadership", "Tactics"],
         "team": "X-Men",
         "home": "Alaska"
     },
-    "Jean Grey": {
+    {
+        "name": "Jean Grey",
         "real_name": "Jean Grey",
         "powers": ["Telepathy", "Telekinesis", "Phoenix Force"],
         "team": "X-Men",
         "home": "New York"
     },
-    "Rogue": {
+    {
+        "name": "Rogue",
         "real_name": "Anna Marie",
         "powers": ["Power Absorption", "Flight", "Super Strength"],
         "team": "X-Men",
         "home": "Mississippi"
     },
-    "Nightcrawler": {
+    {
+        "name": "Nightcrawler",
         "real_name": "Kurt Wagner",
         "powers": ["Teleportation", "Agility", "Night Vision"],
         "team": "X-Men",
         "home": "Germany"
     },
-    "Deadpool": {
+    {
+        "name": "Deadpool",
         "real_name": "Wade Wilson",
         "powers": ["Regeneration", "Swordsmanship", "Humor"],
         "team": "None",
@@ -695,4 +718,4 @@ superheroes = {
         "team": "X-Men",
         "home": "Arizona"
     }
-}
+]
